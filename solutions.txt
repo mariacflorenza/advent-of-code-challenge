@@ -1,0 +1,23 @@
+# Day 1
+    # Distance 
+    2904518
+    # Similarity score
+    18650129
+
+# Day 2
+    # Safe reports
+    230
+    # Safe reports with problem Dampener 
+    301
+
+# Day 3
+    # uncorrupted mul result
+    183669043
+    # do and don't
+    59097164
+
+# Day 4
+    # XMAS
+    2493
+    # X-MAS
+    1890
